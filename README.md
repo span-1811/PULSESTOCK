@@ -1,5 +1,4 @@
 # PulseStock — Indian Stock Market AI Analyzer v2.0
-
 Live NSE/BSE data + Gemini AI predictions. Indian stocks only.
 
 ---
